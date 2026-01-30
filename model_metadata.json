@@ -1,0 +1,1 @@
+{"class_indices": {"Covid": 0, "Normal": 1, "Pneumonia": 2, "Tuberculosis": 3, "Tumor": 4}, "thresholds": {"Covid": 0.1241, "Normal": 0.1651, "Pneumonia": 0.2921, "Tuberculosis": 0.1766, "Tumor": 0.1009}}
